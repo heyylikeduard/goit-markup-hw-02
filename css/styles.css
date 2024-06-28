@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color: #2E2F42;
-    background-color: #fcfcfc;
+    color: #434455;
+    background-color: #FFFFFF;
     font-size: 16px;
 }
 
@@ -17,14 +17,14 @@ ul {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #4d5ae5;
 }
 
-.header-logo span {
-    color: #4d5ae5;
+.header-logo-span {
+    color: #2e2f42;
 }
 
 .navigation-list-link {
@@ -40,12 +40,15 @@ font-weight: 500;
     color: #404bbf;
 }
 
+address {
+    font-style: normal;
+}
+
 .contacts-item-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    font-style: normal;
 }
 
 .contacts-item-link:hover,
@@ -84,8 +87,9 @@ font-weight: 500;
 .features-item-title {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 .features-item-text {
@@ -129,9 +133,10 @@ font-weight: 500;
 .portfolio-section-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
 }
 
 .portfolio-list-item {
@@ -165,11 +170,11 @@ font-weight: 500;
     line-height: 1.16667;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #f4f4fd;
+    color: #4d5ae5;
 }
 
-.footer-logo span {
-    color: #4d5ae5;
+.footer-logo-span {
+    color: #f4f4fd;
 }
 
 .footer-text {
