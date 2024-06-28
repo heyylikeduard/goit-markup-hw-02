@@ -87,9 +87,10 @@ address {
 .features-item-title {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.11;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color: #2E2F42;
 }
 
 .features-item-text {
@@ -105,10 +106,11 @@ address {
 .team-section-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-
+    text-transform: capitalize;
+    color: #2E2F42;
 }
 
 .team-list-item {
@@ -120,13 +122,13 @@ address {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .team-item-text {
 
     line-height: 1.5;
     letter-spacing: 0.02em;
-
     color: #434455;
 }
 
@@ -137,6 +139,7 @@ address {
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
+    color: #2E2F42;
 }
 
 .portfolio-list-item {
@@ -148,6 +151,7 @@ address {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2E2F42;
 
 }
 
@@ -167,7 +171,7 @@ address {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
